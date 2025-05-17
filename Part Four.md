@@ -1,4 +1,4 @@
-## Part Four
+## Part Four, Technical Analysis Investing
 
 Technical Analysis is based on using market prices to determine the value of a company stock. Technical analysis includes using time graphs to assess the value of the firm's stock over time and to make predictions. Moreover, technical analysis investing assumes that the market corrects itself and the market price of the stock is the “true value” of the stock. 
 
