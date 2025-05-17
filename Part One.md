@@ -1,4 +1,4 @@
-## Part One
+## Part One, Structured Querying 
 
 SQL (Structured Query Language) has decades of proven reliability. The schema language structure type of storage is precisely defined and leaves very little room for error, if any. It is a science (as opposed to art). For that reason (and probably other reasons), SQL works very well in a completely controlled environment, specifically for querying the data within the schema language structure. Good luck using this system to store and query incredibly large amounts of data that comprises in good part of natural language, however. It will not work. Against that backdrop, there are robust systems available that leverage the best of SQL and are robust in processing natural language. Chapter 12 (of the book entitled “Knowledge Graphs) covers 3 keys aspects: (1) SPARQL, (2) NoSQL, and (3) hyperplanes and tuples. 
 
