@@ -1,4 +1,4 @@
-## Part Five, Sentiment Analysis
+## Part Five, Sentiment Analysis Investing
 
 Sentiment Analysis of investing consists of using information scraped from the World Wide Web, especially social media (e.g., X—formerly known as Twitter), to assess the value of a company’s stock. Comments about the company are classified (using machine learning and other methods, the BERT model can be used) as positive (favorable) or negative (disparaging) towards the company. 
 
