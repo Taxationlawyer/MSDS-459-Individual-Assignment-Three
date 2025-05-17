@@ -1,4 +1,4 @@
-**Part Three**
+## Part Three, Fundamental Analysis Investing
 
 Fundamental analysis involves the assessment of financial ratios (including profitability, efficiency, liquidity, and other measures) to assess the value of the firm and predict the future value of the company—the stock value. Other factors are considered. For example, the firm’s management quality can be considered along with innovative efforts (patent ownership) and investments in research and development. 
 
